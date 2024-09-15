@@ -42,4 +42,4 @@ co2.scan('atv');
 co2.scan('ipd');
 co2.scan('ipd');
 co2.scan('ipd');
-console.log("Your Cart Details",co.cart(),"\n Grant Total:",co.total()); // Expected: $2718.95
+console.log("Your Cart Details",co2.cart(),"\n Grant Total:",co2.total()); // Expected: $2718.95
